@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matthew-spec
+- 👋 Hi, I’m @mlodycegla
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on various programming projects
