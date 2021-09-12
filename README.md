@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @matthew-spec
+- 👀 I’m interested in computer programming
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on various programming projects
+- 📫 How to reach me: mail - mateyuszafgag@gmail.com
